@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>高雅歌曲精选</title>
+</head>
+<body>
+<h1>幸福な死を（一级标题）</h1>
+<h2>lyics（二级标题）</h2>
+    <p>
+<ul>
+    <li>地獄に落ちたら救われる</li>
+    <li>天国昇ればまた会える</li>
+    <li>楽に 楽に絞めてと乞う君が好き</li>
+    <li>もっともっと強く絞めてと</li>
+    <li>幼な声で喘ぐ君が好き か弱い声で</li>
+    <li>さよなら ありがと</li>
+    <li>と囁いて死んだ</li>
+</ul>
+</p>
+<p>
+    <h1>勇敢的肺</h1>
+    <h2>lyics</h2>
+<ul>
+    <li>穿越雾霾</li>
+    <li>阳光洒满你窗台</li>
+    <li>其实大夫</li>
+    <li>也没几个会治肺癌</li>
+    </ul>
+</p>
+    <h2>图片</h2>
+    <figure>
+        <p>好看的图片</p>
+        <img alt="好看的图片" src="http://d.hiphotos.baidu.com/image/pic/item/8b82b9014a90f603c07be20f3e12b31bb151edab.jpg">
+		<p>好看的图片</p>
+        <img alt="好看的图片" src="http://d.hiphotos.baidu.com/image/pic/item/8b82b9014a90f603c07be20f3e12b31bb151edab.jpg">
+		<p>好看的图片</p>
+        <img alt="好看的图片" src="http://d.hiphotos.baidu.com/image/pic/item/8b82b9014a90f603c07be20f3e12b31bb151edab.jpg">
+		<p>好看的图片</p>
+        <img alt="好看的图片" src="http://d.hiphotos.baidu.com/image/pic/item/8b82b9014a90f603c07be20f3e12b31bb151edab.jpg">
+		<p>好看的图片</p>
+        <img alt="好看的图片" src="http://d.hiphotos.baidu.com/image/pic/item/8b82b9014a90f603c07be20f3e12b31bb151edab.jpg">
+		<p>好看的图片</p>
+        <img alt="好看的图片" src="http://d.hiphotos.baidu.com/image/pic/item/8b82b9014a90f603c07be20f3e12b31bb151edab.jpg">
+		<p>好看的图片</p>
+        <img alt="好看的图片" src="http://d.hiphotos.baidu.com/image/pic/item/8b82b9014a90f603c07be20f3e12b31bb151edab.jpg">
+		<p>好看的图片</p>
+        <img alt="好看的图片" src="http://d.hiphotos.baidu.com/image/pic/item/8b82b9014a90f603c07be20f3e12b31bb151edab.jpg">
+		<p>好看的图片</p>
+        <img alt="好看的图片" src="http://d.hiphotos.baidu.com/image/pic/item/8b82b9014a90f603c07be20f3e12b31bb151edab.jpg">
+		<p>好看的图片</p>
+        <img alt="好看的图片" src="http://d.hiphotos.baidu.com/image/pic/item/8b82b9014a90f603c07be20f3e12b31bb151edab.jpg">
+    </figure>
+	<h1><mark>这是加入mark标签的一句话</mark></h1>
+    <ol>
+        <li>这是一个有序列表</li>	
+        <li>排名2</li>
+        <li>排名3</li>
+        <li>排名4</li>
+    </ol>
+	<ul>
+	    <li>这是一个无序列表</li>
+        <li><a href="https://www.google.com" target="_blank">点击打开GOOGLE</a></li>
+        <li><a href="http://ife.baidu.com" target="_blank">点击打开ife.baidu.com</a></li>
+    </ul>
+    <p>下面是一个表格，给表格加了一个border="1"好让你看出是一个表格</p>
+    <table border="1">
+    <tr>
+        <td>表头</td>
+        <td>表头</td>
+        <td>表头</td>
+    </tr>
+    <tr>
+        <td>表内容单元格</td>
+        <td>表内容单元格</td>
+        <td><a href="#">操作<a></td>
+    </tr>
+    <tr>
+        <td>表内容单元格</td>
+        <td>表内容单元格</td>
+        <td><a href="#">操作<a></td>
+    </tr>
+    <tr>
+        <td>表内容单元格</td>
+        <td>表内容单元格</td>
+        <td><a href="#">操作<a></td>
+    </tr>
+    <tr>
+        <td>表内容单元格</td>
+        <td>表内容单元格</td>
+        <td><a href="#">操作<a></td>
+    </tr>
+    <tr>
+        <td>总计</td>
+        <td colspan="2">1000</td>
+    </tr>
+    </table>
+    <h2>这里以后是一个侧栏，这是侧栏的标题</h2>
+    <h2>侧栏注册窗口标题</h2>
+    <form>
+    <span>请输入邮箱地址：</span>
+    <input  type="email" name="user_email" placeholder="这是一个文本输入框"><br/>
+    <span>邮箱地址请按要求格式输入</span><br/>
+    <span>请输入密码：<span>
+    <input type="password" name="user_password" pattern="[A-Za-z0-9]{6,16}" placeholder="这是一个文本输入框">请重复输入密码：<input type="password" name="user_password" pattern="[A-Za-z][0-9]{6,16}" placeholder="这是一个文本输入框"><br/>
+    <span>密码请为6-16位英文数字</span><br/>
+    <span>性别：</span>
+    <input type="radio" name="user_sex" value="male"><span>男</span><input type="radio" name="user_sex" value="female"><span>女</span>&nbsp;
+    <span>城市：</span>
+    <select>
+        <option label="北京" value="beijing">
+        <option label="上海" value="shanghai">
+        <option label="广州" value="guangzhou">
+        <option label="天津" value="tianjin">
+    </select>
+    <span>爱好：</span>
+    <input type="checkbox" name="favo" value="sports"><span>运动</span><input type="checkbox" name="faco" value="art"><span>艺术</span><input type="checkbox" name="favo" value="science"><span>科学</span>
+    <span>个人描述：</span>
+    <textarea rows="3" cols="20" name="user_introd">这是一个多行输入框。输入您的个人描述</textarea>
+    <input type="submit" value="确认提交">
+    </form>
+    <br/>
+    版权所有&copy;
+
+</body>
+</html>
